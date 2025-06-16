@@ -5,6 +5,10 @@ Addis Interiors is an interactive platform showcasing interior designs with imme
 ## Frontend Screenshots
 **Frontend Demo:** [https://addis-interiors-demo.vercel.app/](https://addis-interiors-demo.vercel.app/)
 
+![s1](/readme-asset/hero.png)
+![s2](/readme-asset/gallery.png)
+![s3](/readme-asset/projects.png)
+
 ## Technology Stack
 - **Next.js (TypeScript):** For server-rendered and responsive frontend  
 - **Three.js & React Three Fiber:** For real-time 3D visualizations  
