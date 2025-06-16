@@ -20,7 +20,7 @@ Addis Interiors is an interactive platform showcasing interior designs with imme
 - **Performance Optimization:** Enhanced rendering speed and memory efficiency for smooth user experience
 
 ## Authors
-- [Abdurehim Kedir](GitHub)
+- [Abdurehim Kedir](https://github.com/kedabdure)
 
 ## License
 Copyright (C) 2024 Addis Interiors. Licensed under the [GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.en.html).
