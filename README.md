@@ -3,7 +3,7 @@
 Addis Interiors is an interactive platform showcasing interior designs with immersive 3D visualizations. Built using Next.js, Three.js, and React Three Fiber, it provides a responsive and engaging user experience across devices. The platform allows users to explore high-quality interior design renders with real-time interaction, optimized for performance and accessibility.
 
 ## Frontend Screenshots
-**Frontend Demo:** [addis-interiors.vercel.app](here)
+**Frontend Demo:** [[https://addis-interiors-demo.vercel.app/](here)
 
 ![s1](readme-asset/hero.png)
 ![s2](readme-asset/gallery.png)
